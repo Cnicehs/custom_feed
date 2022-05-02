@@ -1,3 +1,9 @@
 [submodule "luci-app-smartdns"]
 	path = luci-app-smartdns
 	url = https://github.com/pymumu/luci-app-smartdns.git
+[submodule "openwrt-passwall2"]
+	path = openwrt-passwall2
+	url = https://github.com/xiaorouji/openwrt-passwall2
+[submodule "openwrt-passwall"]
+	path = openwrt-passwall
+	url = https://github.com/xiaorouji/openwrt-passwall.git
